@@ -46,6 +46,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -53,7 +54,6 @@
 
 ## C++ 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [gtest-cmake-example](https://github.com/dmonopoly/gtest-cmake-example) - Helpful example of a gtest and cmake set up for C++.
@@ -174,12 +174,13 @@
 
 ## Vim script 
 
+- [vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
+- [vim](https://github.com/vim/vim) - The official Vim repository
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [detorte](https://github.com/tamlok/detorte) - Detorte color scheme for Vim (originating from built-in desert and torte color schemes)
 - [vim-markdown-quote-syntax](https://github.com/joker1007/vim-markdown-quote-syntax) - vim plugin for highliting code in markdown quote
 - [vim](https://github.com/ma6174/vim) - vim配置文件和插件(不再维护)
 - [ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'
-- [vim](https://github.com/vim/vim) - The official Vim repository
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## VimL 
