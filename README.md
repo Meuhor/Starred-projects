@@ -46,7 +46,6 @@
 
 ## C# # 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -54,6 +53,8 @@
 
 ## C++ 
 
+- [rstpad](https://github.com/ShiraNai7/rstpad) - Standalone reStructuredText editor with live preview (native app)
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [gtest-cmake-example](https://github.com/dmonopoly/gtest-cmake-example) - Helpful example of a gtest and cmake set up for C++.
@@ -85,6 +86,7 @@
 
 ## Java 
 
+- [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
 - [SOME-IP_Analyzer](https://github.com/Egomania/SOME-IP_Analyzer) - Esper based network analyzer for the SOME/IP protocol
 
@@ -126,10 +128,13 @@
 
 ## PowerShell 
 
-- [PowerShell-Open-Here-Module](https://github.com/KUTlime/PowerShell-Open-Here-Module) - PowerShell module that enables "Open here" functionality for PowerShell.
+- [PowerShell-Open-Here-Module](https://github.com/KUTlime/PowerShell-Open-Here-Module) - PowerShell module that provides an extended "Open here" functionality for various terminals.
 
 ## Python 
 
+- [formiko](https://github.com/ondratu/formiko) - reStructuredText editor and live previewer
+- [restview](https://github.com/mgedmin/restview) - ReStructuredText viewer
+- [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A cli toolset that generates table of contents for pdf files automatically.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [SOME-IP_Generator](https://github.com/Egomania/SOME-IP_Generator) - Python3 based generator for SOME/IP packets
@@ -174,6 +179,7 @@
 
 ## Vim script 
 
+- [previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
 - [vim](https://github.com/vim/vim) - The official Vim repository
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
