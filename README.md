@@ -179,6 +179,8 @@
 
 ## Vim script 
 
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 - [previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [vimrc-config](https://github.com/ashfinal/vimrc-config) - re-vim: sensible vim configuration
 - [vim](https://github.com/vim/vim) - The official Vim repository
@@ -191,6 +193,7 @@
 
 ## VimL 
 
+- [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 
 
