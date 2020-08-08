@@ -132,6 +132,8 @@
 
 ## Python 
 
+- [ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
+- [CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [formiko](https://github.com/ondratu/formiko) - reStructuredText editor and live previewer
 - [restview](https://github.com/mgedmin/restview) - ReStructuredText viewer
 - [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A cli toolset that generates table of contents for pdf files automatically.
@@ -179,6 +181,11 @@
 
 ## Vim script 
 
+- [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [my-neovim-configurations](https://github.com/wsgggws/my-neovim-configurations) - Some vim plugs on neovim and its show on MacOS
+- [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
+- [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 - [previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
