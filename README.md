@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -27,8 +28,15 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
 
+## Batchfile 
+
+- [vim-win32-installer](https://github.com/vim/vim-win32-installer) - Vim Win32 Installer
+
 ## C 
 
+- [verilog-parser](https://github.com/ben-marshall/verilog-parser) - A Flex/Bison Parser for the IEEE 1364-2001 Verilog Standard.
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [spp_ipv6](https://github.com/mschuett/spp_ipv6) - IPv6 Plu­gin for Snort
@@ -46,6 +54,8 @@
 
 ## C# # 
 
+- [dotnvim](https://github.com/dontpanic92/dotnvim) - Neovim ❤ Acrylic
+- [files-uwp](https://github.com/files-community/files-uwp) - A modern file explorer that pushes the boundaries of the platform.
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -53,6 +63,8 @@
 
 ## C++ 
 
+- [Surelog](https://github.com/alainmarcel/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
+- [im-select](https://github.com/daipeihust/im-select) - Switch your input method from terminal ⌨️🖥
 - [rstpad](https://github.com/ShiraNai7/rstpad) - Standalone reStructuredText editor with live preview (native app)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -99,8 +111,6 @@
 - [asciiflow2](https://github.com/lewish/asciiflow2) - ASCIIFlow Infinity
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
 
@@ -114,6 +124,7 @@
 
 ## Others 
 
+- [thegreatmarkdown](https://github.com/bxiaopeng/thegreatmarkdown) - 《了不起的 Markdown》
 - [Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -132,11 +143,17 @@
 
 ## Python 
 
+- [Pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
+- [verilogparser](https://github.com/sepandhaghighi/verilogparser) - Simple Verilog Parser In Python
+- [Hardware-Trojan-Detection-RTL-](https://github.com/Knight-J/Hardware-Trojan-Detection-RTL-) - Used for hardware trojan detection（Based on Trust_Hub）
+- [py2neo](https://github.com/technige/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
+- [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
+- [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [formiko](https://github.com/ondratu/formiko) - reStructuredText editor and live previewer
 - [restview](https://github.com/mgedmin/restview) - ReStructuredText viewer
-- [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A cli toolset that generates table of contents for pdf files automatically.
+- [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [SOME-IP_Generator](https://github.com/Egomania/SOME-IP_Generator) - Python3 based generator for SOME/IP packets
@@ -151,6 +168,7 @@
 
 ## Rust 
 
+- [svls](https://github.com/dalance/svls) - SystemVerilog language server
 - [wukong](https://github.com/TonnyL/wukong) - A command-line tool for browsing GitHub trending written by Rust.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 
@@ -166,9 +184,15 @@
 
 ## TypeScript 
 
+- [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+- [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog support for VS Code
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
+- [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 
 ## Verilog 
 
@@ -181,6 +205,11 @@
 
 ## Vim script 
 
+- [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+- [verilog_systemverilog.vim](https://github.com/vhda/verilog_systemverilog.vim) - Verilog/SystemVerilog Syntax and Omni-completion
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+- [riv.vim](https://github.com/gu-fan/riv.vim) - Notes and Wiki with rst.
+- [vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [my-neovim-configurations](https://github.com/wsgggws/my-neovim-configurations) - Some vim plugs on neovim and its show on MacOS
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
@@ -200,6 +229,8 @@
 
 ## VimL 
 
+- [vlog_inst_gen](https://github.com/vim-scripts/vlog_inst_gen) - utility for verilog instance generation
+- [automatic-for-Verilog](https://github.com/vim-scripts/automatic-for-Verilog) - Automatic generator for Verilog HDL
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 
