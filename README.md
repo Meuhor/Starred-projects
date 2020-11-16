@@ -34,6 +34,10 @@
 
 ## C 
 
+- [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
+- [ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
+- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [libneo4j-client](https://github.com/cleishm/libneo4j-client) - neo4j-client -- Neo4j Command Line Interface (CLI)
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser) - A Flex/Bison Parser for the IEEE 1364-2001 Verilog Standard.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 
@@ -55,7 +59,7 @@
 ## C# # 
 
 - [dotnvim](https://github.com/dontpanic92/dotnvim) - Neovim ❤ Acrylic
-- [files-uwp](https://github.com/files-community/files-uwp) - A modern file explorer that pushes the boundaries of the platform.
+- [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -63,8 +67,11 @@
 
 ## C++ 
 
+- [bullimp](https://github.com/xnevs/bullimp) - An implementation of an improved Ullman's algorithm for subgraph isomorphisms
+- [yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
+- [vf3lib](https://github.com/MiviaLab/vf3lib) - VF3 Algorithm - The fastest algorithm to solve subgraph isomorphism on large and dense graphs
 - [Surelog](https://github.com/alainmarcel/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
-- [im-select](https://github.com/daipeihust/im-select) - Switch your input method from terminal ⌨️🖥
+- [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
 - [rstpad](https://github.com/ShiraNai7/rstpad) - Standalone reStructuredText editor with live preview (native app)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -74,7 +81,7 @@
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [vsomeip](https://github.com/GENIVI/vsomeip) - An implementation of Scalable service-Oriented MiddlewarE over IP
-- [vnote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
+- [vnote](https://github.com/vnotex/vnote) - A note-taking application that knows programmers and Markdown better.
 
 ## CSS 
 
@@ -104,6 +111,8 @@
 
 ## JavaScript 
 
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [qian256.github.io](https://github.com/qian256/qian256.github.io) - My personal blog hosted by Github. Theme forked from poole/hyde.
@@ -124,6 +133,8 @@
 
 ## Others 
 
+- [C-plusplus-notes-chinese-](https://github.com/littlebearsama/C-plusplus-notes-chinese-) - C++笔记（书本 C++ primer plus 第六版中文版）
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [thegreatmarkdown](https://github.com/bxiaopeng/thegreatmarkdown) - 《了不起的 Markdown》
 - [Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -143,9 +154,9 @@
 
 ## Python 
 
+- [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [Pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
 - [verilogparser](https://github.com/sepandhaghighi/verilogparser) - Simple Verilog Parser In Python
-- [Hardware-Trojan-Detection-RTL-](https://github.com/Knight-J/Hardware-Trojan-Detection-RTL-) - Used for hardware trojan detection（Based on Trust_Hub）
 - [py2neo](https://github.com/technige/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
 - [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
@@ -155,7 +166,7 @@
 - [restview](https://github.com/mgedmin/restview) - ReStructuredText viewer
 - [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) - A CLI toolset to generate table of contents for PDF files automatically.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [SOME-IP_Generator](https://github.com/Egomania/SOME-IP_Generator) - Python3 based generator for SOME/IP packets
 - [eth-scapy-someip](https://github.com/jamores/eth-scapy-someip) - Automotive Ethernet SOME/IP-SD Scapy protocol
 - [markdown2ctags](https://github.com/jszakmeister/markdown2ctags) - Generate ctags-compatible tags files for Markdown documents.
@@ -186,8 +197,7 @@
 
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog support for VS Code
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
