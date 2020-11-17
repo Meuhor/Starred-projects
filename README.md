@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [dotnvim](https://github.com/dontpanic92/dotnvim) - Neovim ❤ Acrylic
 - [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
@@ -99,6 +100,7 @@
 
 ## HTML 
 
+- [madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
 - [colorie](https://github.com/ronv/colorie) - Colorie - Single column blog and portfolio Jekyll theme
 - [home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
@@ -111,6 +113,7 @@
 
 ## JavaScript 
 
+- [hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
