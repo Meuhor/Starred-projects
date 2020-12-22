@@ -229,6 +229,7 @@
 
 ## Vim script 
 
+- [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [verilog_systemverilog.vim](https://github.com/vhda/verilog_systemverilog.vim) - Verilog/SystemVerilog Syntax and Omni-completion
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
