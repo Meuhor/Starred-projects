@@ -40,7 +40,7 @@
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - neo4j-client -- Neo4j Command Line Interface (CLI)
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser) - A Flex/Bison Parser for the IEEE 1364-2001 Verilog Standard.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 
+- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 超迷你模块化卡片电脑计划
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [spp_ipv6](https://github.com/mschuett/spp_ipv6) - IPv6 Plu­gin for Snort
@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [bullimp](https://github.com/xnevs/bullimp) - An implementation of an improved Ullman's algorithm for subgraph isomorphisms
 - [yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [vf3lib](https://github.com/MiviaLab/vf3lib) - VF3 Algorithm - The fastest algorithm to solve subgraph isomorphism on large and dense graphs
@@ -82,10 +83,11 @@
 - [AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [vsomeip](https://github.com/GENIVI/vsomeip) - An implementation of Scalable service-Oriented MiddlewarE over IP
-- [vnote](https://github.com/vnotex/vnote) - A note-taking application that knows programmers and Markdown better.
+- [vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 
 ## CSS 
 
+- [archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile
 
@@ -95,11 +97,15 @@
 
 ## Go 
 
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [gor](https://github.com/wendal/gor) - Golang编写的静态博客引擎
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
 ## HTML 
 
+- [hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
 - [colorie](https://github.com/ronv/colorie) - Colorie - Single column blog and portfolio Jekyll theme
 - [home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
@@ -113,6 +119,7 @@
 
 ## JavaScript 
 
+- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
@@ -153,10 +160,13 @@
 
 ## PowerShell 
 
+- [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
 - [PowerShell-Open-Here-Module](https://github.com/KUTlime/PowerShell-Open-Here-Module) - PowerShell module that provides an extended "Open here" functionality for various terminals.
 
 ## Python 
 
+- [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [func_timeout](https://github.com/kata198/func_timeout) - Python module which allows you to specify timeouts when calling any existing function, and support for stoppable threads
 - [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [Pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
 - [verilogparser](https://github.com/sepandhaghighi/verilogparser) - Simple Verilog Parser In Python
@@ -178,7 +188,7 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [caj2pdf](https://github.com/JeziL/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+- [caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 
 ## Rust 
 
@@ -188,7 +198,8 @@
 
 ## Shell 
 
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
@@ -236,6 +247,7 @@
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [detorte](https://github.com/tamlok/detorte) - Detorte color scheme for Vim (originating from built-in desert and torte color schemes)
 - [vim-markdown-quote-syntax](https://github.com/joker1007/vim-markdown-quote-syntax) - vim plugin for highliting code in markdown quote
+- [neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 - [vim](https://github.com/ma6174/vim) - vim配置文件和插件(不再维护)
 - [ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
@@ -245,7 +257,6 @@
 - [vlog_inst_gen](https://github.com/vim-scripts/vlog_inst_gen) - utility for verilog instance generation
 - [automatic-for-Verilog](https://github.com/vim-scripts/automatic-for-Verilog) - Automatic generator for Verilog HDL
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
-- [neocomplcache.vim](https://github.com/Shougo/neocomplcache.vim) - Ultimate auto-completion system for Vim.
 
 
 ## License
