@@ -18,10 +18,12 @@
   - [Lua](#lua)
   - [NSIS](#nsis)
   - [Others](#others)
+  - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [SystemVerilog](#systemverilog)
   - [TypeScript](#typescript)
   - [Verilog](#verilog)
   - [Vim Snippet](#vim-snippet)
@@ -34,6 +36,8 @@
 
 ## C 
 
+- [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [subiso](https://github.com/Josik/subiso) - 
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
 - [ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -68,6 +72,10 @@
 
 ## C++ 
 
+- [ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+- [graph](https://github.com/bjoern-andres/graph) - Graphs and Graph Algorithms in C++, including Minimum Cost (Lifted) Multicuts
+- [SubgraphMatching](https://github.com/RapidsAtHKUST/SubgraphMatching) - In-Memory Subgraph Matching: An In-depth Study by Dr. Shixuan Sun and Prof. Qiong Luo
 - [z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [bullimp](https://github.com/xnevs/bullimp) - An implementation of an improved Ullman's algorithm for subgraph isomorphisms
 - [yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
@@ -97,6 +105,7 @@
 
 ## Go 
 
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gor](https://github.com/wendal/gor) - Golang编写的静态博客引擎
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -121,7 +130,6 @@
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [qian256.github.io](https://github.com/qian256/qian256.github.io) - My personal blog hosted by Github. Theme forked from poole/hyde.
@@ -157,6 +165,10 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [GM-Standards](https://github.com/guanzhi/GM-Standards) - 中华人民共和国密码行业标准(GM/T)文本
 
+## PHP 
+
+- [graph](https://github.com/graphp/graph) - GraPHP is the mathematical graph/network library written in PHP.
+
 ## PowerShell 
 
 - [windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
@@ -164,6 +176,10 @@
 
 ## Python 
 
+- [CS555-Proj](https://github.com/Wh1t3Fox/CS555-Proj) - Subgraph isomorphism Zero-Knowledge
+- [subgraph-matching](https://github.com/qinshimeng18/subgraph-matching) - 
+- [uclasm](https://github.com/jdmoorman/uclasm) - Subgraph matching and isomorphisms in Python.
+- [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
 - [func_timeout](https://github.com/kata198/func_timeout) - Python module which allows you to specify timeouts when calling any existing function, and support for stoppable threads
 - [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [Pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
@@ -186,13 +202,13 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [caj2pdf](https://github.com/JeziL/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+- [caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 
 ## Rust 
 
 - [svls](https://github.com/dalance/svls) - SystemVerilog language server
 - [wukong](https://github.com/TonnyL/wukong) - A command-line tool for browsing GitHub trending written by Rust.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## Shell 
 
@@ -204,6 +220,10 @@
 - [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
+
+## SystemVerilog 
+
+- [ibex](https://github.com/lowRISC/ibex) - Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.
 
 ## TypeScript 
 
@@ -227,8 +247,11 @@
 
 ## Vim script 
 
+- [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
+- [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [verilog_systemverilog.vim](https://github.com/vhda/verilog_systemverilog.vim) - Verilog/SystemVerilog Syntax and Omni-completion
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [riv.vim](https://github.com/gu-fan/riv.vim) - Notes and Wiki with rst.
 - [vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
