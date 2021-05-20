@@ -21,6 +21,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [SystemVerilog](#systemverilog)
@@ -29,6 +30,7 @@
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
+  - [Vue](#vue)
 
 ## Batchfile 
 
@@ -44,7 +46,6 @@
 - [libneo4j-client](https://github.com/cleishm/libneo4j-client) - neo4j-client -- Neo4j Command Line Interface (CLI)
 - [verilog-parser](https://github.com/ben-marshall/verilog-parser) - A Flex/Bison Parser for the IEEE 1364-2001 Verilog Standard.
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 超迷你模块化卡片电脑计划
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [spp_ipv6](https://github.com/mschuett/spp_ipv6) - IPv6 Plu­gin for Snort
@@ -54,7 +55,7 @@
 - [hostap-ct](https://github.com/greearb/hostap-ct) - Fork of hostap:  git://w1.fi/srv/git/hostap.git
 - [unpv13e](https://github.com/unpbook/unpv13e) - UNIX Network Programming, Volume 1, Third Edition Source Code
 - [minieap](https://github.com/updateing/minieap) - 可扩展的 802.1x 客户端，带有锐捷 v3 (v4) 算法插件支持
-- [wolfssl](https://github.com/wolfSSL/wolfssl) - wolfSSL (formerly CyaSSL) is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!
+- [wolfssl](https://github.com/wolfSSL/wolfssl) - The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [strongswan](https://github.com/zhangke5959/strongswan) - 支持国密sm1,sm2,sm3,sm4算法的ipsec vpn。
@@ -62,9 +63,11 @@
 
 ## C# # 
 
+- [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [dotnvim](https://github.com/dontpanic92/dotnvim) - Neovim ❤ Acrylic
 - [Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview) - A Windows Preview handler for Markdown files
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -72,6 +75,8 @@
 
 ## C++ 
 
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [graph](https://github.com/bjoern-andres/graph) - Graphs and Graph Algorithms in C++, including Minimum Cost (Lifted) Multicuts
@@ -80,10 +85,9 @@
 - [bullimp](https://github.com/xnevs/bullimp) - An implementation of an improved Ullman's algorithm for subgraph isomorphisms
 - [yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [vf3lib](https://github.com/MiviaLab/vf3lib) - VF3 Algorithm - The fastest algorithm to solve subgraph isomorphism on large and dense graphs
-- [Surelog](https://github.com/alainmarcel/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
+- [Surelog](https://github.com/alainmarcel/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX
 - [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
 - [rstpad](https://github.com/ShiraNai7/rstpad) - Standalone reStructuredText editor with live preview (native app)
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [ScriptCommunicator_serial-terminal](https://github.com/szieke/ScriptCommunicator_serial-terminal) - Scriptable cross-platform data terminal which supports: serial port, UDP, TCP, SPI, I2C and CAN.
 - [gtest-cmake-example](https://github.com/dmonopoly/gtest-cmake-example) - Helpful example of a gtest and cmake set up for C++.
@@ -97,6 +101,7 @@
 
 - [archie](https://github.com/athul/archie) - A minimal Hugo Theme
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
+- [home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile
 
 ## Clojure 
@@ -113,20 +118,26 @@
 
 ## HTML 
 
+- [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
+- [Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
+- [manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
+- [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
 - [colorie](https://github.com/ronv/colorie) - Colorie - Single column blog and portfolio Jekyll theme
-- [home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
 
 ## Java 
 
+- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
 - [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
 - [SOME-IP_Analyzer](https://github.com/Egomania/SOME-IP_Analyzer) - Esper based network analyzer for the SOME/IP protocol
 
 ## JavaScript 
 
+- [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [hovercraft](https://github.com/regebro/hovercraft) - Make dynamic impressive presentations from text files!
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
@@ -134,15 +145,15 @@
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [qian256.github.io](https://github.com/qian256/qian256.github.io) - My personal blog hosted by Github. Theme forked from poole/hyde.
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [asciiflow2](https://github.com/lewish/asciiflow2) - ASCIIFlow Infinity
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
-- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
 
 ## Lua 
 
 - [eth-ws-someip](https://github.com/jamores/eth-ws-someip) - Automotive Ethernet SOME/IP-SD Wireshark LUA dissectors (Autosar 4.2)
+- [Rime](https://github.com/scomper/Rime) - 鼠须管配置
 
 ## NSIS 
 
@@ -152,6 +163,7 @@
 
 - [C-plusplus-notes-chinese-](https://github.com/littlebearsama/C-plusplus-notes-chinese-) - C++笔记（书本 C++ primer plus 第六版中文版）
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 超迷你模块化卡片电脑计划
 - [thegreatmarkdown](https://github.com/bxiaopeng/thegreatmarkdown) - 《了不起的 Markdown》
 - [Raspberry-Pi-OS-64bit](https://github.com/raspberrypi/Raspberry-Pi-OS-64bit) - Repository for containing issues on the 64 bit operating system (as distinct from the 32 bit one)
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -160,7 +172,6 @@
 - [Xshell-ColorScheme](https://github.com/netsarang/Xshell-ColorScheme) - 250+ Xshell Color Schemes
 - [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
-- [Rime](https://github.com/scomper/Rime) - 鼠须管配置
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - A curated list of cryptography resources and links.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [GM-Standards](https://github.com/guanzhi/GM-Standards) - 中华人民共和国密码行业标准(GM/T)文本
@@ -176,6 +187,12 @@
 
 ## Python 
 
+- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
+- [starcli](https://github.com/hedythedev/starcli) - :sparkles: Browse GitHub trending projects from your command line
+- [caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+- [CNKI-download](https://github.com/CyrusRenty/CNKI-download) - :frog: 知网(CNKI)文献下载及文献速览爬虫
+- [grandiso-networkx](https://github.com/aplbrain/grandiso-networkx) - Performant, pure-Python subgraph isomorphism and monomorphism search (aka "motif search")
 - [CS555-Proj](https://github.com/Wh1t3Fox/CS555-Proj) - Subgraph isomorphism Zero-Knowledge
 - [subgraph-matching](https://github.com/qinshimeng18/subgraph-matching) - 
 - [uclasm](https://github.com/jdmoorman/uclasm) - Subgraph matching and isomorphisms in Python.
@@ -202,22 +219,25 @@
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) - 
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+
+## Ruby 
+
+- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 
 ## Rust 
 
 - [svls](https://github.com/dalance/svls) - SystemVerilog language server
-- [wukong](https://github.com/TonnyL/wukong) - A command-line tool for browsing GitHub trending written by Rust.
+- [wukong](https://github.com/TonnyL/wukong) - A command-line tool for browsing GitHub trending written by Rust. [DEPRECATED]
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## Shell 
 
+- [arco-sway](https://github.com/arcolinuxd/arco-sway) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 - [bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
-- [rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 
@@ -227,18 +247,21 @@
 
 ## TypeScript 
 
+- [react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code
+- [asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 
 ## Verilog 
 
-- [e200_opensource](https://github.com/SI-RISCV/e200_opensource) - The Ultra-Low Power RISC Core
+- [e200_opensource](https://github.com/SI-RISCV/e200_opensource) - Deprecated, please go to next generation Ultra-Low Power RISC-V Core https://github.com/riscv-mcu/e203_hbirdv2
 - [FPGA_SM4](https://github.com/raymondrc/FPGA_SM4) - FPGA implementation of Chinese SM4 encryption algorithm.
 
 ## Vim Snippet 
@@ -247,11 +270,13 @@
 
 ## Vim script 
 
+- [vim-markdown](https://github.com/gabrielelana/vim-markdown) - Markdown for Vim: a complete environment to create Markdown files with a syntax highlight that doesn't suck!
+- [archlinux-setup](https://github.com/Geigerkind/archlinux-setup) - ArchLinux sway setup
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
 - [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [verilog_systemverilog.vim](https://github.com/vhda/verilog_systemverilog.vim) - Verilog/SystemVerilog Syntax and Omni-completion
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [riv.vim](https://github.com/gu-fan/riv.vim) - Notes and Wiki with rst.
 - [vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
@@ -278,6 +303,10 @@
 - [vlog_inst_gen](https://github.com/vim-scripts/vlog_inst_gen) - utility for verilog instance generation
 - [automatic-for-Verilog](https://github.com/vim-scripts/automatic-for-Verilog) - Automatic generator for Verilog HDL
 - [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+
+## Vue 
+
+- [u2web](https://github.com/suconghou/u2web) - stream video with p2p
 
 
 ## License
