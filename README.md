@@ -15,6 +15,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [NSIS](#nsis)
   - [Others](#others)
@@ -38,6 +39,10 @@
 
 ## C 
 
+- [nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
+- [snoopy](https://github.com/a2o/snoopy) - Snoopy is a small library that logs all program executions on your Linux/BSD system (a.k.a. Snoopy Logger).
+- [ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [foot](https://github.com/DanteAlighierin/foot) - A fast, lightweight and minimalistic Wayland terminal emulator
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [subiso](https://github.com/Josik/subiso) - 
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
@@ -63,6 +68,7 @@
 
 ## C# # 
 
+- [CopyPlusPlus-NetFramework](https://github.com/CopyPlusPlus/CopyPlusPlus-NetFramework) - Make copy more easily!
 - [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [dotnvim](https://github.com/dontpanic92/dotnvim) - Neovim ❤ Acrylic
@@ -75,6 +81,8 @@
 
 ## C++ 
 
+- [istyle-verilog-formatter](https://github.com/thomasrussellmurphy/istyle-verilog-formatter) - Open source implementation of a Verilog formatter
+- [zeromq4-x](https://github.com/zeromq/zeromq4-x) - ØMQ 4.x stable release branch - bug fixes only
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 - [ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -85,7 +93,7 @@
 - [bullimp](https://github.com/xnevs/bullimp) - An implementation of an improved Ullman's algorithm for subgraph isomorphisms
 - [yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [vf3lib](https://github.com/MiviaLab/vf3lib) - VF3 Algorithm - The fastest algorithm to solve subgraph isomorphism on large and dense graphs
-- [Surelog](https://github.com/alainmarcel/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX
+- [Surelog](https://github.com/chipsalliance/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API. Compiles on Linux gcc, Windows msys2-gcc & msvc, OsX
 - [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
 - [rstpad](https://github.com/ShiraNai7/rstpad) - Standalone reStructuredText editor with live preview (native app)
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -120,7 +128,6 @@
 
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户
-- [manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [madoko](https://github.com/koka-lang/madoko) - Madoko is a fast markdown processor for high quality academic and technical articles
@@ -150,6 +157,10 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [wavedrom.github.io](https://github.com/wavedrom/wavedrom.github.io) - Digital timing diagram editor
 
+## Kotlin 
+
+- [expenses](https://github.com/nominalista/expenses) - App written in Kotlin for budget tracking.
+
 ## Lua 
 
 - [eth-ws-someip](https://github.com/jamores/eth-ws-someip) - Automotive Ethernet SOME/IP-SD Wireshark LUA dissectors (Autosar 4.2)
@@ -161,6 +172,7 @@
 
 ## Others 
 
+- [manjaro-sway](https://github.com/Manjaro-Sway/manjaro-sway) - 🚧 manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [C-plusplus-notes-chinese-](https://github.com/littlebearsama/C-plusplus-notes-chinese-) - C++笔记（书本 C++ primer plus 第六版中文版）
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) - 超迷你模块化卡片电脑计划
@@ -187,9 +199,10 @@
 
 ## Python 
 
+- [pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
-- [starcli](https://github.com/hedythedev/starcli) - :sparkles: Browse GitHub trending projects from your command line
+- [starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [CNKI-download](https://github.com/CyrusRenty/CNKI-download) - :frog: 知网(CNKI)文献下载及文献速览爬虫
 - [grandiso-networkx](https://github.com/aplbrain/grandiso-networkx) - Performant, pure-Python subgraph isomorphism and monomorphism search (aka "motif search")
@@ -201,7 +214,7 @@
 - [PcapViz](https://github.com/mateuszk87/PcapViz) - Visualize network topologies and collect graph statistics based on pcap files
 - [Pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
 - [verilogparser](https://github.com/sepandhaghighi/verilogparser) - Simple Verilog Parser In Python
-- [py2neo](https://github.com/technige/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.
+- [py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
@@ -234,7 +247,7 @@
 
 - [arco-sway](https://github.com/arcolinuxd/arco-sway) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 - [bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
@@ -247,12 +260,14 @@
 
 ## TypeScript 
 
+- [excalidraw](https://github.com/mebtte/excalidraw) - Excalidraw 支持简体中文手写字体.
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [react-resume-site](https://github.com/hua1995116/react-resume-site) - 木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) - Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code
 - [asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
@@ -261,6 +276,7 @@
 
 ## Verilog 
 
+- [rtc](https://github.com/freecores/rtc) - No description
 - [e200_opensource](https://github.com/SI-RISCV/e200_opensource) - Deprecated, please go to next generation Ultra-Low Power RISC-V Core https://github.com/riscv-mcu/e203_hbirdv2
 - [FPGA_SM4](https://github.com/raymondrc/FPGA_SM4) - FPGA implementation of Chinese SM4 encryption algorithm.
 
